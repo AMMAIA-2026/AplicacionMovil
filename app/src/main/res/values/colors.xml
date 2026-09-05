@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Colores del sistema por defecto -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta personalizada para nuestra App -->
+    <color name="fondo_splash">#1E1E2C</color>
+    <color name="boton_principal">#4E54C8</color>
+    <color name="boton_presionado">#3F4499</color>
+    <color name="texto_principal">#333333</color>
+    <color name="input_borde">#CCCCCC</color>
+    <color name="input_fondo">#F8F9FA</color>
 </resources>
