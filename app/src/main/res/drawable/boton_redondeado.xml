@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Define el radio de redondeo de las esquinas -->
+    <corners android:radius="12dp" />
+
+    <!-- Rellena el fondo con un color de nuestra paleta -->
+    <solid android:color="@color/boton_principal" />
+
+</shape>
