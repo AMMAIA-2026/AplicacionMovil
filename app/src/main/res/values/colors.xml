@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Paleta base -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta para las pantallas de splash/login -->
+    <color name="fondo_splash">#1E1E2C</color>
+    <color name="azul_primario">#2196F3</color>
+    <color name="azul_presionado">#1976F3</color>
+    <color name="gris_fondo_input">#F4F6F9</color>
+    <color name="gris_borde_input">#CBD5E1</color>
+    <color name="texto_principal">#334155</color>
 </resources>
